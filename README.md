@@ -7,7 +7,7 @@ To develop a Django application to store and retrieve data from a database using
 ![ERdiagram](ERdiagram.png)
 
 ## DESIGN STEPS
-
+ 
 ### STEP 1:Create folder 'ex02' under the directory 'unit2'
 
 ### STEP 2:Clone the Github repository into the directory 'ex02' using the command "git clone <url>"
